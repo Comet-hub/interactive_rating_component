@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Interactive rating component](https://your-solution-url.com)
-- Live Site URL: [Interactive rating component](https://your-live-site-url.com)
+- Solution URL: [Interactive rating component](https://github.com/Comet-hub/interactive_rating_component)
+- Live Site URL: [Interactive rating component](https://comet-hub.github.io/interactive_rating_component/)
 
 ## My process
 
